@@ -6,3 +6,11 @@ layout: page
 title : Travel/Accommodations
 ---
 
+## Airport
+
+El Paso International airport is the nearest airport, about 1 hour drive from Las Cruces.
+
+## Hotels
+
+
+
