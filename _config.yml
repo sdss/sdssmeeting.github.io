@@ -31,8 +31,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   spectroscopy, and mapping black holes using time-domain spectroscopy
   of quasars and bright X-ray sources.
 
-For more information please visit the SDSS-V website.
-SDSS members can also visit the SDSS-V Wiki.
+  For more information please visit the SDSS-V website.
+  SDSS members can also visit the SDSS-V Wiki.
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
