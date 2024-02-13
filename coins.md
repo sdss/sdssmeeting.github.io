@@ -9,6 +9,7 @@ title : COINS recommendations
 
 ## COINS Recommendations for Meetings
 
-- Meeting Accessibility: https://github.com/sdss/coins/blob/main/documents/md/meeting_accessibility.md
-- Guildelines for chairing sessions at SDSS meetings: https://github.com/sdss/coins/blob/main/documents/md/chairing_guidelines.md
-- Other things can be found here: https://github.com/sdss/coins/tree/main/documents/md
+Links:<br>
+- [Meeting Accessibility](https://github.com/sdss/coins/blob/main/documents/md/meeting_accessibility.md)
+- [Guildelines for chairing sessions at SDSS meetings](https://github.com/sdss/coins/blob/main/documents/md/chairing_guidelines.md)
+- [Other things can be found here]( https://github.com/sdss/coins/tree/main/documents/md)
