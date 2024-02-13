@@ -38,6 +38,8 @@ Jennifer Johnson (OSU) <br>
 ### Local Organizing Committee (LOC) <br>
 Joe Burchett (NMSU) <br>
 Jon Holtzman (NMSU) <br>
+Priscilla Holguin Luna (NMSU) <br>
+Dmitry Bizyaev (APO) <br>
 
 The fifth Sloan Digital Sky Survey (SDSS-V) is an all-sky, multi-epoch
 spectroscopic survey that will yield optical and infrared spectra
