@@ -9,8 +9,7 @@ layout: home
 
 ## 2024 SDSS-V Collaboration Meeting
 
-June 3-7, 20204
-New Mexico State University
+### June 3-7, 2024, New Mexico State University
 
 
 The 2024 SDSS-V Collaboration Meeting will be held on the campus
@@ -30,15 +29,15 @@ June 6-7 will be breakout sessions and workshops for the
 individual mappers. On June 6, we hope to provide the opportunity
 for a field trip to the Apache Point Observatory
 
-SOC 
-Danny Horta Darrington (CCA), chair
-Joe Burchett (NMSU)
-Keith Hawkins (U.T. Austin)
-Jennifer Johnson (OSU)
+### Science Organizing Committee (SOC) <br>
+Danny Horta Darrington (CCA), chair <br>
+Joe Burchett (NMSU) <br>
+Keith Hawkins (U.T. Austin) <br>
+Jennifer Johnson (OSU) <br>
 
-LOC
-Joe Burchett (NMSU)
-Jon Holtzman (NMSU)
+### Local Organizing Committee (LOC) <br>
+Joe Burchett (NMSU) <br>
+Jon Holtzman (NMSU) <br>
 
 The fifth Sloan Digital Sky Survey (SDSS-V) is an all-sky, multi-epoch
 spectroscopic survey that will yield optical and infrared spectra
