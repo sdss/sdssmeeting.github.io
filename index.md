@@ -34,6 +34,8 @@ Danny Horta Darrington (CCA), chair <br>
 Joe Burchett (NMSU) <br>
 Keith Hawkins (U.T. Austin) <br>
 Jennifer Johnson (OSU) <br>
+Aida Wofford <br>
+Eduardo Méndez Delgado <br>
 
 ### Local Organizing Committee (LOC) <br>
 Joe Burchett (NMSU) <br>
