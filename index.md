@@ -18,7 +18,7 @@ The SDSS-V project involves three
 key projects — the Milky Way Mapper, the Local Volume Mapper, and
 the Black Hole Mapper — that will together observe nearly 6 million
 stars in the Milky Way and satellite galaxies, 400,000 black holes
-and galaxy clusters, and 3000 deg^2 of the ionized ISM from APO and
+and galaxy clusters, and 3000 square degrees of the ionized ISM from APO and
 LCO! The first public data release was in January 2023 with internal
 data products now being released to collaboration. With these
 exciting milestones, the collaboration meeting this year will be
