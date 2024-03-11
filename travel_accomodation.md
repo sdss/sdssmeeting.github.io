@@ -13,7 +13,7 @@ title : Travel/Accommodations
 
 ## Getting to Las Cruces from ELP
 
-We recommend the [Las Cruces Shuttle](https://www.lascrucesshuttle.com/) service for transportation from/to the airport.  Attendees should book their shuttle as soon as possible after booking flights.  The shuttle will run at least 9 trips on Sunday, June 2nd, but can possibly run a few more according to demand
+We recommend the [Las Cruces Shuttle](https://www.lascrucesshuttle.com/) service for transportation from/to the airport.  Attendees should book their shuttle as soon as possible after booking flights.  The shuttle will run at least 9 trips on Sunday, June 2nd, but can possibly run a few more according to demand.
 
 The El Paso airport contains a full suite of rental car options, and carpooling is strongly encouraged if attendees opt for this mode of transport.  
 
@@ -26,7 +26,7 @@ We have reserved blocks of rooms at the following hotels.  When booking, please 
 Located one block from the NMSU campus, the Courtyard by Marriott, is 1.1 miles from the meeting venue.  We have reserved a block of 60 rooms at the special rate of $129/night.  Attendees may book one of three ways:
 1. Call the hotel at (575) 526-1722, press 1 for reservations or press 3 to be connected to the front desk. Ask to make a reservation under “Sloan Digital Sky”
 2. Use Marriott mobile app on your phone and add the Group Code Government: SDSSDSA or SDSSDSB
-3. Click this direct reservation link: [https://www.marriott.com/events/start.mi?id=1707782737466&key=GRP]https://www.marriott.com/events/start.mi?id=1707782737466&key=GRP
+3. Click this direct reservation link: [https://www.marriott.com/events/start.mi?id=1707782737466&key=GRP](https://www.marriott.com/events/start.mi?id=1707782737466&key=GRP)
 
 [Hilton Garden Inn](https://www.hilton.com/en/hotels/lrulcgi-hilton-garden-inn-las-cruces/)
 

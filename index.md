@@ -13,7 +13,9 @@ layout: home
 
 
 The 2024 SDSS-V Collaboration Meeting will be held on the campus
-of New Mexico State University in Las Cruces, NM.
+of New Mexico State University in Las Cruces, NM.  Las Cruces is nestled 
+in the morning shadow of the breathtaking Organ Mountains and is home to
+a friendly culture infused with unique Borderland flavor.  
 The SDSS-V project involves three
 key projects — the Milky Way Mapper, the Local Volume Mapper, and
 the Black Hole Mapper — that will together observe nearly 6 million
@@ -26,8 +28,8 @@ devoted to SDSS-V science talks, status updates, and tutorials,
 with both plenary and splinter sessions, from June 3-7 2024.
 June 3-5 will be collaboration meeting talks/discussions and 
 June 6-7 will be breakout sessions and workshops for the
-individual mappers. On June 6, we hope to provide the opportunity
-for a field trip to the Apache Point Observatory
+individual mappers. On June 6, we will facilitate a field trip to 
+the Apache Point Observatory (limited capacity).  
 
 ### Science Organizing Committee (SOC) <br>
 Danny Horta Darrington (CCA), chair <br>
@@ -38,7 +40,7 @@ Aida Wofford (UNAM) <br>
 J. Eduardo Méndez Delgado (U. Heidelberg) <br>
 
 ### Local Organizing Committee (LOC) <br>
-Joe Burchett (NMSU) <br>
+Joe Burchett (NMSU), chair <br>
 Jon Holtzman (NMSU) <br>
 Priscilla Holguin Luna (NMSU) <br>
 Dmitry Bizyaev (APO) <br>
@@ -53,5 +55,5 @@ mapping Local Volume galaxies using wide-angle integral field
 spectroscopy, and mapping black holes using time-domain spectroscopy
 of quasars and bright X-ray sources.
 
-For more information please visit the SDSS-V website.
+For more information please visit the [SDSS-V website](https://www.sdss.org/).
 SDSS members can also visit the SDSS-V Wiki.
