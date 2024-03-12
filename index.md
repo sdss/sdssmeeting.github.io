@@ -16,6 +16,7 @@ The 2024 SDSS-V Collaboration Meeting will be held on the campus
 of New Mexico State University in Las Cruces, NM.  Las Cruces is nestled 
 in the morning shadow of the breathtaking Organ Mountains and is home to
 a friendly culture infused with unique Borderland flavor.  
+
 The SDSS-V project involves three
 key projects — the Milky Way Mapper, the Local Volume Mapper, and
 the Black Hole Mapper — that will together observe nearly 6 million
