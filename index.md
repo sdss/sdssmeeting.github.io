@@ -39,6 +39,8 @@ Keith Hawkins (U.T. Austin) <br>
 Jennifer Johnson (OSU) <br>
 Aida Wofford (UNAM) <br>
 J. Eduardo Méndez Delgado (U. Heidelberg) <br>
+Michael Blanton (NYU) <br>
+Amy Rankine (U. Edinburgh) <br>
 
 ### Local Organizing Committee (LOC) <br>
 Joe Burchett (NMSU), chair <br>
