@@ -5,7 +5,7 @@
 layout: page
 title : Travel/Accommodations
 ---
-
+![Organ Mountains](AdobeStock_244611736_organMountains.png)
 
 ## Air travel
 
