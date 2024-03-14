@@ -9,7 +9,7 @@ title : Travel/Accommodations
 
 ## Air travel
 
-[El Paso International](https://www.elpasointernationalairport.com/) is the nearest airport, about 1 hour drive from Las Cruces, and is recommended for getting to the area. 
+[El Paso International](https://www.elpasointernationalairport.com/) (ELP) is the nearest airport, about 1 hour drive from Las Cruces, and is recommended for getting to the area. 
 
 ## Getting to Las Cruces from ELP
 
