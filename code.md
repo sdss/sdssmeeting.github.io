@@ -28,7 +28,7 @@ We will not tolerate any type of violence, harassment, bullying, or attacks towa
 
 Furthermore, the committee may be obligated to inform the individual's home institution about the accusations and its conclusions. In instances of severe misconduct, the Director or ARC BoG Chair may request the individual's institution to consider removing them from the survey based on their own investigation.
 
-If you have any questions, or want to report a violation of this code, please email: <a href="mailto:codeofconduct@simonsfoundation.org">codeofconduct@simonsfoundation.org</a>
+If you have any questions, please email: <a href="mailto:coins@sdss.org">coins@sdss.org</a>. Contact information to report violations of this code will be provided at the Collaboration Meeting.
  
  
 ### More Information
