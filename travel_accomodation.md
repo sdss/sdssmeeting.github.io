@@ -24,13 +24,13 @@ Please use the [Rides and Roommates wiki page](https://wiki.sdss.org/display/SDS
 ## Hotels
 We have reserved blocks of rooms at the following hotels.  When booking, please use the links below to ensure you get the negotiated rate:
 
-[Courtyard by Marriott](https://www.marriott.com/en-us/hotels/lrucy-courtyard-las-cruces-at-nmsu/overview/?gclid=CjwKCAjw17qvBhBrEiwA1rU9w0UDkVMhZ-MAGEQMa5bPcXqNfFPqzx9zlDVzMyVJjpsyCU0F_69PhhoCkHEQAvD_BwE&gclsrc=aw.ds&cid=PAI_GLB0004YXD_GLE000BIM5_GLF000OETA)
+[Courtyard by Marriott](https://www.marriott.com/en-us/hotels/lrucy-courtyard-las-cruces-at-nmsu/overview/?gclid=CjwKCAjw17qvBhBrEiwA1rU9w0UDkVMhZ-MAGEQMa5bPcXqNfFPqzx9zlDVzMyVJjpsyCU0F_69PhhoCkHEQAvD_BwE&gclsrc=aw.ds&cid=PAI_GLB0004YXD_GLE000BIM5_GLF000OETA) <br/>
 Located one block from the NMSU campus, the Courtyard by Marriott, is 1.1 miles from the meeting venue (Domenici Hall on the NMSU campus).  We have reserved a block of rooms at the special rate of $129/night.  Attendees may book one of three ways:
 1. Call the hotel at (575) 526-1722, press 1 for reservations or press 3 to be connected to the front desk. Ask to make a reservation under “Sloan Digital Sky”
 2. Use Marriott mobile app on your phone and add the Group Code Government: SDSSDSA or SDSSDSB
 3. Click this direct reservation link: [https://www.marriott.com/events/start.mi?id=1707782737466&key=GRP](https://www.marriott.com/events/start.mi?id=1707782737466&key=GRP)
 
-[Hilton Garden Inn](https://www.hilton.com/en/hotels/lrulcgi-hilton-garden-inn-las-cruces/)
+[Hilton Garden Inn](https://www.hilton.com/en/hotels/lrulcgi-hilton-garden-inn-las-cruces/) <br/>
 Hilton Garden Inn is 1.5 miles from Domenici Hall, and we have reserved a block of rooms at a discounted rate $157/night.  We will have a reservation link here soon.
 
 If you are interesting in sharing lodging, you may use the [Rides and Roommates wiki page](https://wiki.sdss.org/display/SDSS/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates).
