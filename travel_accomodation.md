@@ -19,7 +19,8 @@ The El Paso airport contains a full suite of rental car options, and carpooling 
 
 Rideshare services Lyft and Uber are usually available but can get pricey going to/from the airport depending on time of day, surge pricing, etc. 
 
-Please use the [Rides and Roommates wiki page](https://wiki.sdss.org/display/SDSS/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates) for coordinating rides to/from the airport.  
+Please use the [Rides and Roommates wiki page](https://sdss-wiki.atlassian.net/wiki/spaces/SDSS/pages/13343233/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates)
+for coordinating rides to/from the airport.  
 
 ## Hotels
 We have reserved blocks of rooms at the following hotels.  When booking, please use the links below to ensure you get the negotiated rate:
@@ -33,7 +34,7 @@ Located one block from the NMSU campus, the Courtyard by Marriott, is 1.1 miles 
 [Hilton Garden Inn](https://www.hilton.com/en/hotels/lrulcgi-hilton-garden-inn-las-cruces/) <br/>
 Hilton Garden Inn is 1.5 miles from Domenici Hall, and we have reserved a block of rooms at a discounted rate $157/night.  We will have a reservation link here soon.
 
-If you are interesting in sharing lodging, you may use the [Rides and Roommates wiki page](https://wiki.sdss.org/display/SDSS/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates).
+If you are interesting in sharing lodging, you may use the [Rides and Roommates wiki page](https://sdss-wiki.atlassian.net/wiki/spaces/SDSS/pages/13343233/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates).
 
 
 
