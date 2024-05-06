@@ -11,6 +11,7 @@ layout: home
 
 ### June 3-7, 2024, New Mexico State University
 
+[*Pay your registration fees here*](https://commerce.cashnet.com/nmsuSDSSpay)
 
 The 2024 SDSS-V Collaboration Meeting will be held on the campus
 of New Mexico State University in Las Cruces, NM.  Las Cruces is nestled 
