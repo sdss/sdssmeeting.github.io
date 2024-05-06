@@ -6,7 +6,7 @@ layout: page
 title : Registration
 ---
 
-[*Pay your registration fees here* by May 17](https://commerce.cashnet.com/nmsuSDSSpay). Also please add your arriving flight information on
+[**Pay your registration fees here by May 17**](https://commerce.cashnet.com/nmsuSDSSpay). Also please add your arriving flight information on
 the [wiki](https://sdss-wiki.atlassian.net/wiki/spaces/SDSS/pages/13343233/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates) so we can
 help people with transportation.
 
