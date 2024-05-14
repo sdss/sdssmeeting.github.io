@@ -10,5 +10,5 @@ title : Registration
 the [wiki](https://sdss-wiki.atlassian.net/wiki/spaces/SDSS/pages/13343233/2024+SDSS-V+Collaboration+Meeting+Rides+and+Roommates) so we can
 help people with transportation.
 
-**[Pre-registration](https://docs.google.com/forms/d/e/1FAIpQLSdVtjmpauObcz-3VnBtYJ2Rz2ViuvGeHp4Bx42pWBzj9G572g/viewform for the 2024 Collaboration Meeting has closed.**  
+[Pre-registration](https://docs.google.com/forms/d/e/1FAIpQLSdVtjmpauObcz-3VnBtYJ2Rz2ViuvGeHp4Bx42pWBzj9G572g/viewform) for the 2024 Collaboration Meeting has closed.
 If you want to attend the meeting but have not registered, please check with the SOC chair, Danny Horta Darrington (dhortadarrington@flatironinstitute.org), or the LCO chair, Joe Burchett (jnb@nmsu.edu).
