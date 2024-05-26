@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title : Travel/Accommodations
+title : Travel/Hotels
 ---
 ![Organ Mountains](AdobeStock_244611736_organMountains.png)
 
