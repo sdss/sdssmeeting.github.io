@@ -38,6 +38,8 @@ Downtown Las Cruces(~2.5 mi/4 km from Courtyard Marriott)
 - [Zeffiros](https://zeffirosdowntown.com/) closed Monday/Tuesday
 - Farmer’s Market on Wednesday & Saturday mornings (8:30 am - 1 pm)
 
+[Chope's Bar and Cafe](https://www.facebook.com/chopesbar/) La Mesa
+
 Las Cruces (around town)
 breakfast/lunch:
 - OMPC-The Shed (2.6 mi/4.2 km)
