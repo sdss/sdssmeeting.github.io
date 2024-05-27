@@ -20,18 +20,22 @@ or ‘christmas’ which is a mix of both green and red! If you’re not
 sure which you’ll like more, christmas is a great option to try
 both out.
 
+NOTE: Many restaurants close at 9:00pm!
+
 Restaurants
 - Mesilla (~2.5 mi/4 km  from Courtyard Marriott)
-- Chala’s Wood Fire Grill
-- La Posta de Mesilla
-- D.H. Lescombes Winery & Bistro
-- Luna Rossa Winery & Pizzeria
-- Hacienda de Mesilla
-- Andele's Dog House
+- Chala’s Wood Fire Grill (closed Tuesday)
+- [La Posta de Mesilla](https://www.lapostademesilla.com/)
+- [D.H. Lescombes Winery & Bistro](https://lescombeswinery.com/las-cruces-bistro-menu/)
+- [Luna Rossa Winery & Pizzeria](https://www.lunarossawinery.com/our-pizzeria) check hours?
+- [Hacienda de Mesilla](https://www.haciendademesilla.com/)
+- [Andeles](https://www.andelerestaurante.com/) closed Monday
+- [Andele's Dog House](https://www.andelerestaurante.com/) 
 
 Downtown Las Cruces(~2.5 mi/4 km from Courtyard Marriott)
 - Icebox Brewing - Boneyard Cantina (Astronomy on Tap location!)
 - Grounded
+- [Zeffiros](https://zeffirosdowntown.com/) closed Monday/Tuesday
 - Farmer’s Market on Wednesday & Saturday mornings (8:30 am - 1 pm)
 
 Las Cruces (around town)
