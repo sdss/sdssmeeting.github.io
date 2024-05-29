@@ -47,6 +47,7 @@ title : Attendees
 | Keith Hawkins | University of Texas at Austin |
 | *Viola Hegedus* | ELTE Gothard Astrophysical Observatory |
 | JJ Hermes | Boston University |
+| *Pranavi Hiremath*  | University of Edinburgh | 
 | Stephanie Ho | New Mexico State University |
 | David Hogg | Flatiron Institute  |
 | Priscilla Holguin Luna | New Mexico State University |
@@ -63,6 +64,7 @@ title : Attendees
 | Jennifer Johnson | Ohio State University |
 | James Johnson | The Observatories of the Carnegie Institution for Science |
 | Evelyn Johnston | Universidad Diego Portales |
+| *Amy Jones | STScI |
 | Ivan Katkov | New York University Abu Dhabi |
 | Juna Kollmeier | Carnegie Institution for Science/CITA |
 | *Kathryn Kreckel* | Heidelberg University |
@@ -90,7 +92,7 @@ title : Attendees
 | Ahmad Nemer | New York University |
 | *Qingling Ni* | MPE |
 | David Nidever | Montana State University |
-| Slater Oden | Montana State University |
+| *Slater Oden* | Montana State University |
 | Mary Ogborn | The Pennsylvania State University |
 | Jonah Otto | Texas Christian University |
 | Marc Pinsonneault | Ohio State University |
