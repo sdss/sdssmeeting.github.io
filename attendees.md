@@ -64,7 +64,7 @@ title : Attendees
 | Jennifer Johnson | Ohio State University |
 | James Johnson | The Observatories of the Carnegie Institution for Science |
 | Evelyn Johnston | Universidad Diego Portales |
-| *Amy Jones | STScI |
+| *Amy Jones* | STScI |
 | Ivan Katkov | New York University Abu Dhabi |
 | Juna Kollmeier | Carnegie Institution for Science/CITA |
 | *Kathryn Kreckel* | Heidelberg University |
