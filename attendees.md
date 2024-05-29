@@ -17,7 +17,7 @@ title : Attendees
 | Dmitry Bizyaev | APO/NMSU |
 | Michael Blanton | New York University |
 | *William Brandt* | Penn State University |
-| Joel Brownstein |  his |
+| Joel Brownstein |  University of Utah |
 | Joseph Burchett | New Mexico State |
 | *Joleen Carlberg* | STScI |
 | Andrew Casey | Monash University |
@@ -71,7 +71,7 @@ title : Attendees
 | Shrinivas Ramchandra Kulkarni | caltech |
 | *Casey Lam* | Carnegie OBS |
 | Knox Long | STScI |
-| Ricardo López Valdivia |  He |
+| Ricardo López Valdivia |  Instituto de Astronomía UNAM, Ensenada |
 | Yuxi Lu | American Museum of Natural History |
 | *Chandreyee Maitra* | Max Planck Institute for Extraterrestrial Physics |
 | Alexandra Masegian | Columbia University |
@@ -96,7 +96,7 @@ title : Attendees
 | Jonah Otto | Texas Christian University |
 | Marc Pinsonneault | Ohio State University |
 | Rakesh Pandey | Instituto de Radioastronomía y Astrofísica |
-| Joshua Povick |  His |
+| Joshua Povick |  Universidad Diego Portales |
 | Moire Prescott | NMSU |
 | *Adrian Price-Whelan* | Flatiron Institute |
 | Thomas Prince | Caltech |
