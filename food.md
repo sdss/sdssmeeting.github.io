@@ -43,9 +43,9 @@ Downtown Las Cruces(~2.5 mi/4 km) : walkable from Astronomy on Tap location
 - [Zeffiros](https://zeffirosdowntown.com/) : pizza+ closed Monday/Tuesday
 - Farmer’s Market on Wednesday & Saturday mornings (8:30 am - 1 pm)
 
-La Mesa
+La Mesa (14 mi)
 - [Chope's Bar and Cafe](https://www.facebook.com/chopesbar/) La Mesa: closed M-W, closes Sunday at 6:00. 
-14 mi from Courtyard Marriott. Classic Mexican.
+**Classic** Mexican.
 
 Las Cruces (around town)
 - Santorini (0.6 mi/ 1 km) : middle Eastern
