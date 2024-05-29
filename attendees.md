@@ -63,12 +63,11 @@ title : Attendees
 | Jennifer Johnson | Ohio State University |
 | James Johnson | The Observatories of the Carnegie Institution for Science |
 | Evelyn Johnston | Universidad Diego Portales |
-| *Nadiia Kallweit-Pulatova* | Max-Planck Institute for Astronomy |
 | Ivan Katkov | New York University Abu Dhabi |
 | Juna Kollmeier | Carnegie Institution for Science/CITA |
 | *Kathryn Kreckel* | Heidelberg University |
-| Dhaneshvaran Krishnarao | Colorado College |
-| Shrinivas Ramchandra Kulkarni | caltech |
+| Dhaneshvaran Krishnarao  (DK) | Colorado College |
+| Shri Kulkarni | caltech |
 | *Casey Lam* | Carnegie OBS |
 | Knox Long | STScI |
 | Ricardo López Valdivia |  Instituto de Astronomía UNAM, Ensenada |
@@ -81,7 +80,7 @@ title : Attendees
 | Ilija Medan | Vanderbilt University |
 | Alfredo Mejía | Universidad de Chile |
 | José Eduardo Méndez Delgado | Heidelberg University |
-| Andrea Merloni | MPE |
+| *Andrea Merloni* | MPE |
 | *Szabolcs Mészáros*  | ELTE Gothard Astrophysical Observatory |
 | Ivan Minchev | Leibniz Institute for Astrophysics Potsdam (AIP) |
 | Niana Mohammed | Pennsylvania State University |
@@ -124,7 +123,7 @@ title : Attendees
 | Jonathan Tan | Univ. of Virginia |
 | *Olivia Telford* | Carnegie/Princeton |
 | Riley Thai | Monash University |
-| Andrii Tkachenko | Institute of Astronomy |
+| Andrew Tkachenko | Institute of Astronomy |
 | Nicholas Troup | Salisbury University |
 | *Hector Velazquez* | Instituto de Astronomia-UNAM |
 | Stefanie Wachter | Carnegie Observatories |
