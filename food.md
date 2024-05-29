@@ -30,12 +30,14 @@ Restaurants
 - [La Posta de Mesilla](https://www.lapostademesilla.com/) : historic Mexican where all tourists go
 - [D.H. Lescombes Winery & Bistro](https://lescombeswinery.com/las-cruces-bistro-menu/)
 - [Luna Rossa Winery & Pizzeria](https://www.lunarossawinery.com/our-pizzeria) 
+- [Peppers / Double Eagle](http://www.doubleeagleonline.com/menus/) : New Mexican (Peppers) and "fine dining" (Double Eagle)
 - [Hacienda de Mesilla](https://www.haciendademesilla.com/)
 - [Andeles](https://www.andelerestaurante.com/) closed Monday
 - [Andele's Dog House](https://www.andelerestaurante.com/) 
 
 Downtown Las Cruces(~2.5 mi/4 km) : walkable from Astronomy on Tap location
 - [Icebox Brewing - Boneyard Cantina](https://iceboxbrewing.com/downtown-boneyard-cantina) Astronomy on Tap location!, closed Mon/Tues
+- [Little Toad brewery](https://www.littletoadcreek.com/) - brewery with "fine pub food"
 - [Grounded](https://thegroundedlounge.com/) : coffe shop with pizza, closed Sunday
 - [Zeffiros](https://zeffirosdowntown.com/) closed Monday/Tuesday
 - Farmer’s Market on Wednesday & Saturday mornings (8:30 am - 1 pm)
@@ -51,11 +53,11 @@ breakfast/lunch:
 - Indulgence Bakery & Cafe (0.7 mi/1.1 km)
 - Moms Coffee (0.6 mi/1 km)
 lunch/dinner:
-- Santorini (0.6 mi/ 1 km)
-- Sí Señor Restaurant (2.9 mi/4.6 km)
-- [Bosque Brewing Co.](https://www.bosquebrewing.com/las-cruces-public-housec), has 2 locations in town closest is on University (0.6 mi/1 km) : brewery with some food, close!
+- Santorini (0.6 mi/ 1 km) : middle Eastern
+- Sí Señor Restaurant (2.9 mi/4.6 km) : Mexican
+- [Bosque Brewing Co.](https://www.bosquebrewing.com/las-cruces-public-housec), has 2 locations in town closest is on University (0.6 mi/1 km) : brewery with some pub food, close!
 - Chachi’s Restaurant (1.2 mi/1.9 km)
-- [Icebox brewery Locust](https://iceboxbrewing.com/locust-taproom) : brewery with a little food
+- [Icebox brewery Locust](https://iceboxbrewing.com/locust-taproom) : brewery with a little pub food
 - La Carreta Authentic Mexican Food Truck (2.2 mi/3.5 km)
 - [Lorenzo’s Italian Restaurant](https://www.lorenzositalian.com/) (1.3 mi/2.1 km)
 - Paco’s Tacos (food truck on Solano) (2 mi/3.2 km)
