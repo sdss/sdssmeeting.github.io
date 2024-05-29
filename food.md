@@ -24,8 +24,6 @@ NOTE: Many restaurants close at 9:00pm!
 
 All distances from Courtyard Marriott
 
-Restaurants
-
 Mesilla (~2.5 mi/4 km)
 - Chala’s Wood Fire Grill (closed Tuesday)
 - [La Posta de Mesilla](https://www.lapostademesilla.com/) : historic Mexican where all tourists go
