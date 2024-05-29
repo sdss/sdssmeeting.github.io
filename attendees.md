@@ -46,7 +46,7 @@ title : Attendees
 | *Patrick Hall* | York University |
 | Keith Hawkins | University of Texas at Austin |
 | *Viola Hegedus* | ELTE Gothard Astrophysical Observatory |
-| James Hermes | Boston University |
+| JJ Hermes | Boston University |
 | Stephanie Ho | New Mexico State University |
 | David Hogg | Flatiron Institute  |
 | Priscilla Holguin Luna | New Mexico State University |
