@@ -136,3 +136,5 @@ title : Attendees
 | Qiaoya Wu | University of Illinois |
 | *Duo Xu* | University of Virginia |
 | Eleonora Maria Zari | MPIA/INAF Arcetri |
+
+Names in italics have indicated remote participation
