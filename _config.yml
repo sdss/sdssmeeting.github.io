@@ -46,6 +46,7 @@ plugins:
   - jekyll-feed
   - jekyll-relative-links
 
+
 relative-links:
   enabled : true
   collections : true
