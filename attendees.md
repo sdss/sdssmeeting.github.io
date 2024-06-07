@@ -5,6 +5,10 @@
 layout: page
 title : Attendees
 ---
+<center>
+<img src="SDSS_full.jpg" width="100%"/>
+</center>
+
 
 | *James Aird* | University of Edinburgh |
 | Andres  Almeida | University of Virginia |
