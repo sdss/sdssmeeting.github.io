@@ -6,7 +6,7 @@ layout: page
 title : Attendees
 ---
 <center>
-<img src="SDSS_full.jpg" width="100%"/>
+<img src="SDSS_full.JPG" width="100%"/>
 </center>
 
 
